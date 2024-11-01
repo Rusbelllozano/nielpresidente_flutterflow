@@ -46,6 +46,7 @@ class _HomeWebViewWidgetState extends State<HomeWebViewWidget> {
           alignment: AlignmentDirectional(0.0, 0.0),
           child: FlutterFlowWebView(
             content: 'https://www.nielpresidente.com/',
+            userAgent: 'random',
             width: MediaQuery.sizeOf(context).width * 1.0,
             height: MediaQuery.sizeOf(context).height * 1.0,
             verticalScroll: false,
