@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>772072038126-mgsd3oupfe8no6negpdb2l7j356q4cd2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.772072038126-mgsd3oupfe8no6negpdb2l7j356q4cd2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>772072038126-0oed5l0fm0tjhim1krgoph2uk6g3h5i4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIBe4QBjSe8svFmO1q7tqrYe_nefggkRU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>772072038126</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.nielpresidente</string>
+	<key>PROJECT_ID</key>
+	<string>nielpresidente-64bf3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nielpresidente-64bf3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:772072038126:ios:b33ac7014eea3b003e9dff</string>
+</dict>
+</plist>

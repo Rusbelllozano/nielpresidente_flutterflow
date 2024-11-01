@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "772072038126",
+    "project_id": "nielpresidente-64bf3",
+    "storage_bucket": "nielpresidente-64bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772072038126:android:212f8308ab803d6f3e9dff",
+        "android_client_info": {
+          "package_name": "com.flutterflow.nielpresidente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772072038126-0oed5l0fm0tjhim1krgoph2uk6g3h5i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.nielpresidente",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "772072038126-s3p3v760rm8foli6l1qphm7voh3ullop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.nielpresidente",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "772072038126-nf6vtqm45m2pfdeo30p5uj634pvu0es4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD74--HgXSQAjv26SyKlhYJK_2c-csJOuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772072038126-nf6vtqm45m2pfdeo30p5uj634pvu0es4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "772072038126-mgsd3oupfe8no6negpdb2l7j356q4cd2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.nielpresidente"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
